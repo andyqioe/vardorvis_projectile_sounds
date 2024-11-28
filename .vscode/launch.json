@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VardorvisProjectileSoundsTest",
+            "request": "launch",
+            "mainClass": "com.vardorvis_projectile_sounds.VardorvisProjectileSoundsTest",
+            "projectName": "example-vardorvis_projectile_sounds",
+            "vmArgs": "-ea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExamplePluginTest",
+            "request": "launch",
+            "mainClass": "com.example.ExamplePluginTest",
+            "projectName": "example-vardorvis_projectile_sounds",
+            "vmArgs": "-ea"
+        }
+    ]
+}
